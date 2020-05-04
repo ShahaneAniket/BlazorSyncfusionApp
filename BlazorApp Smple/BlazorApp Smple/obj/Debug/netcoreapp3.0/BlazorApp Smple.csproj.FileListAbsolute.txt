@@ -1,0 +1,69 @@
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\BlazorApp Smple.exe
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\BlazorApp Smple.deps.json
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\BlazorApp Smple.runtimeconfig.json
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\BlazorApp Smple.runtimeconfig.dev.json
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\BlazorApp Smple.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\BlazorApp Smple.pdb
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\BlazorApp Smple.Views.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\BlazorApp Smple.Views.pdb
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.csprojAssemblyReference.cache
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\staticwebassets\BlazorApp Smple.StaticWebAssets.Manifest.cache
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\staticwebassets\BlazorApp Smple.StaticWebAssets.xml
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.RazorComponent.input.cache
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.TagHelpers.input.cache
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.TagHelpers.output.cache
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.RazorCoreGenerate.cache
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.RazorAssemblyInfo.cache
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.RazorAssemblyInfo.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.AssemblyInfoInputs.cache
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.AssemblyInfo.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.RazorTargetAssemblyInfo.cache
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.RazorTargetAssemblyInfo.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.Views.pdb
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.pdb
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.csproj.CopyComplete
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\BlazorApp Smple.StaticWebAssets.xml
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Microsoft.JSInterop.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Syncfusion.Blazor.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\Syncfusion.Licensing.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\System.Text.Json.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\bin\Debug\netcoreapp3.0\en-US\Syncfusion.Blazor.resources.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\BlazorApp Smple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\RazorDeclaration\BlazorApp Smple.dll
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\Razor\App.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\Razor\Pages\Error.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\Razor\_Imports.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\RazorDeclaration\Pages\Component.razor.g.cs
+C:\Users\Prosot\source\repos\BlazorApp Smple\BlazorApp Smple\obj\Debug\netcoreapp3.0\Razor\Pages\Component.razor.g.cs

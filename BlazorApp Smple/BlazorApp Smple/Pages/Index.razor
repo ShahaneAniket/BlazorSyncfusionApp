@@ -1,0 +1,77 @@
+﻿@page "/"
+
+<h1>Hello, world!</h1>
+
+Welcome to your new Blazor app with Syncfusion Components.
+
+<br />
+<br />
+<h4>Synfusion Calender (Default)!</h4>
+<SfCalendar TValue="DateTime?"></SfCalendar>
+
+<br />
+<br />
+<h4>Synfusion DataGrid (Default)!</h4>
+<SfGrid DataSource="@employeeData"></SfGrid>
+
+<div style="max-width:100%">
+    <br /><br />
+    <h4>Synfusion TimePicker(Default)!</h4>
+    <div style="max-width:30%">
+        <SfTimePicker TValue="DateTime?"></SfTimePicker>
+    </div>
+
+    <br /><br />
+    <h4>Synfusion TimePicker(Time initialized)!</h4>
+    <div style="max-width:30%">
+        <SfTimePicker TValue="DateTime?" Value="@tTime"></SfTimePicker>
+    </div>
+
+    <br /><br />
+    <h4>Synfusion TimePicker(Time initialized with Validation Min and Max time)!</h4>
+    <div style="max-width:30%">
+        <SfTimePicker TValue="DateTime?" Value="@tTime" Min="@minTime" Max="@maxTime"></SfTimePicker>
+    </div>
+
+    <br /><br />
+    <h4>Synfusion TimePicker(Time initialized with Validation Min and Max time and format and interval)!</h4>
+    <div style="max-width:30%">
+        <SfTimePicker TValue="DateTime?" Value="@tTime" Min="@minTime" Max="@maxTime" Format="HH:mm" Step="10"></SfTimePicker>
+    </div>
+</div>
+<br />
+<br />
+    <br /><br />
+
+@code{
+
+
+    /// <summary>
+    /// For seting Time to time picker
+    /// </summary>
+    ///
+    public DateTime tTime { get; set; } = new DateTime(2020, 2, 5, 1, 25, 00);
+    public DateTime minTime { get; set; } = new DateTime(2020, 2, 5, 1, 00, 00);
+    public DateTime maxTime { get; set; } = new DateTime(2020, 2, 5, 12, 25, 00);
+
+    /// <summary>
+    /// For DataGrid
+    /// </summary>
+    public class temp
+    {
+        public int no { get; set; }
+        public int number { get; set; }
+        public int age { get; set; }
+    }
+    public List<temp> employeeData { get; set; }
+    protected override void OnInitialized()
+    {
+        employeeData = Enumerable.Range(1, 10).Select(x => new temp()
+        {
+            no = 100 + x,
+            number = 100 * x,
+            age = (100 + x) - 5
+        }).ToList();
+
+    }
+}

@@ -1,0 +1,18 @@
+﻿
+@page "/Component"
+
+<h1>Component</h1>
+<br />
+<br />
+<h4>Synfusion Schuduler (Default)!</h4>
+<SfSchedule TValue="object" SelectedDate="@(new DateTime(2020,01,01))" CurrentView="View.Month">
+    <ScheduleViews>
+            <ScheduleView Option="View.Day" StartHour="06:00" EndHour="15:00"></ScheduleView>
+            <ScheduleView Option="View.Week" StartHour="10:00" EndHour="18:00"></ScheduleView>
+            <ScheduleView Option="View.Month" ShowWeekend="false"></ScheduleView>
+
+        </ScheduleViews>
+</SfSchedule>
+@code {
+
+}
